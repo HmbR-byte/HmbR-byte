@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Humberto Rodríguez 👋
 
-<!--
-**HmbR-byte/HmbR-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Operaciones L1 | Ciberseguridad
 
-Here are some ideas to get you started:
+Soy estudiante de la Licenciatura en Seguridad en Tecnologías de Información en la UANL y actualmente trabajo en Abba Networks como Analista de Operaciones L1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa la seguridad informática, la automatización de procesos y el análisis de vulnerabilidades. Busco seguir desarrollándome profesionalmente en el área de ciberseguridad.
+
+## 🛡️ Áreas de conocimiento
+
+- Seguridad de endpoints (EPP/EDR)
+- Gestión de vulnerabilidades y aplicación de parches
+- Monitoreo y análisis de eventos de seguridad
+- Automatización de tareas con PowerShell
+- Administración de sistemas Windows
+- Análisis de riesgos y controles de seguridad
+
+## 🛠️ Herramientas
+
+- Bitdefender GravityZone
+- Trellix ePO
+- Qualys y Qualys FIM
+- Panda System Management
+- Delinea EPM
+- ManageEngine MDM
+
+## 📂 Proyectos
+
+En este perfil comparto proyectos académicos y herramientas demostrativas relacionadas con automatización, análisis de riesgos y monitoreo de seguridad.
+
+## 📫 Contacto
+
+Correo: humbrdzrj02@gmail.com
