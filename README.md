@@ -27,7 +27,3 @@ Me interesa la seguridad informática, la automatización de procesos y el anál
 ## 📂 Proyectos
 
 En este perfil comparto proyectos académicos y herramientas demostrativas relacionadas con automatización, análisis de riesgos y monitoreo de seguridad.
-
-## 📫 Contacto
-
-Correo: humbrdzrj02@gmail.com
